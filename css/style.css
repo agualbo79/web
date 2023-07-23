@@ -1,20 +1,18 @@
 @font-face {
-    font-family: 'MADE Dillan Regular';
+    font-family: 'MADE Dillan';
     font-style: normal;
     font-weight: normal;
     src: local('MADE Dillan Regular'), url('MADE Dillan PERSONAL USE.woff') format('woff');
-    }
-@font-face {
-    font-family: 'MADE Dillan';
-    src: url('MADE Dillan.otf');
   }
-*{
+  
+  *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'MADE Dillan Regular', sans-serif;
+    font-family: 'MADE Dillan', sans-serif;
     scroll-behavior: smooth;
 }
+
 /*********************** HEADER *****************/
 
 header.stick{
