@@ -1,4 +1,0 @@
-fuentes:
-https://www.w3schools.com/howto
-https://codepen.io/
-https://developer.mozilla.org/
